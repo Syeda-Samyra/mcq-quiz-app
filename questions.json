@@ -1,0 +1,899 @@
+[ 
+     {
+        "question": "A avaliação que cada condutor faz de uma situação, depende muito da sua experiência na condução. ",
+        "options": [
+            "Certo.",
+            "b) Errado"
+        ],
+        "answer": "Certo."
+    },  
+    {
+        "question": "O condutor de um veículo pode atravessar uma passagem de nível:",
+        "options": [
+            "Após se certificar de que a intensidade do trânsito não obriga à imobilização do veículo sobre a passagem de nível, ainda que a sinalização lhe permita o atravessamento.",
+            "Após verificar que, apesar da aproximação de um comboio, ainda dispõe de tempo suficiente para efetuar o atravessamento da passagem.",
+            "Após verificar que os meios de proteção não estão atravessados na via publica, embora a intensidade do trafego possa dar origem a ter que parar sobre a passagem de nível."
+        ],
+        "answer": "Após se certificar de que a intensidade do trânsito não obriga à imobilização do veículo sobre a passagem de nível, ainda que a sinalização lhe permita o atravessamento."
+    },
+    {
+        "question": "Um condutor ecológico: ",
+        "options": [
+            "Engrena mudanças mais baixas para diminuir a rotação do motor.",
+            "Desembraia o veículo nas descidas de inclinação acentuada.",
+            "Conduz com velocidade mais constante, evitando acelerações e travagens bruscas."
+        ],
+        "answer": "Conduz com velocidade mais constante, evitando acelerações e travagens bruscas."
+    },
+    {
+        "question": "O aspeto mais importante para se obter sucesso quando se pretende estabelecer comunicação é",
+        "options": [
+            "Fazer perguntas para esclarecer o ponto de vista da outra pessoa.",
+            "Ser recetivo ao conteúdo e às emoções da outra pessoa",
+            "Ouvir para compreender",
+            "Demonstrar sempre concordância."
+        ],
+        "answer": "Ouvir para compreender"
+    },
+      {
+        "question": "Nos termos da legislação em vigor, é considerado crime a condução com uma taxa de álcool no sangue igual ou superior a:",
+        "options": [
+            "0,40 g/l",
+            "0,80 g/l",
+            "1,20 g/l"
+        ],
+        "answer": "1,20 g/l"
+    },
+    {
+        "question": "Se aumentar a velocidade, a distância de segurança, deve: ",
+        "options": [
+            "Aumentar.",
+            "Diminuir.",
+            "Manter-se."
+        ],
+        "answer": "Aumentar."
+    },
+    {
+        "question": "Apesar de existirem vários estilos de comunicação devemos utilizar preferencialmente:  ",
+        "options": [
+            "   Passivo",
+            "Agressivo.",
+            "Assertivo"
+        ],
+        "answer": "Assertivo"
+    },
+      {
+        "question": "Um dos efeitos do álcool no condutor é o aumento:",
+        "options": [
+            "Da capacidade de reação.",
+            "Do tempo de reação."
+        ],
+        "answer": "Do tempo de reação."
+    },
+     {
+        "question": "A distância de travagem varia com: ",
+        "options": [
+            "As condições atmosféricas.",
+            "A largura da via.",
+            "A sinalização vertical existente no local."
+        ],
+        "answer": "As condições atmosféricas."
+    },
+    {
+        "question": "A barreira interna à comunicação está relacionada com:",
+        "options": [
+            "Má interpretação das palavras.",
+            "Pressão do tempo",
+            "Desinteresse e desmotivação",
+            "Estão corretas as respostas a) e c)"
+        ],
+        "answer": "Desinteresse e desmotivação"
+    },
+    {
+        "question": "As competências exigidas para o desempenho da função de motorista são",
+        "options": [
+            "Meramente técnicas",
+            "Organizacionais e técnicas",
+            "Organizacionais, relacionais e técnicas"
+        ],
+        "answer": "Organizacionais, relacionais e técnicas"
+    },
+     {
+        "question": "A condução com uma taxa de alcoolémia igual ou superior a 1,20 g/l é considerada:",
+        "options": [
+            "Uma contra ordenação grave.",
+            "Um ilícito criminal.",
+            "Uma desobediência qualificada."
+        ],
+        "answer": "Um ilícito criminal."
+    },
+    {
+        "question": "Conduzir com chuva tem como resultado: ",
+        "options": [
+            "O aumento de aderência ao piso",
+            "A diminuição da distância de paragem.",
+            "A redução da visibilidade."
+        ],
+        "answer": "A redução da visibilidade."
+    },
+     {
+        "question": "A imagem de um motorista é formada em 30 segundos, dando-se maior importância a:",
+        "options": [
+            "Comunicação.",
+            "Aparência.",
+            "Conhecimento."
+        ],
+        "answer": "Aparência."
+    },
+    {
+        "question": "Quais as características que definem um bom líder?",
+        "options": [
+            "Ser capaz de apresentar uma visão que outros queiram alcançar.",
+            "Ser ambicioso, carismático, confiante, independente e responsável.",
+            "Ser capaz de satisfazer as necessidades pessoais e de grupo."
+        ],
+        "answer": "Ser ambicioso, carismático, confiante, independente e responsável."
+    },
+     {
+        "question": "Considera-se sob a influência do álcool, o motorista de TVDE que apresente uma taxa de álcool no sangue igual ou superior a: ",
+        "options": [
+            "1,2 g/l.",
+            "0,8 g/l.",
+            "0,2 g/l.",
+            "Todas as respostas estão certas."
+        ],
+        "answer": "Todas as respostas estão certas."
+    },
+     {
+        "question": "A condução sob a influência do álcool provoca no condutor: ",
+        "options": [
+            "O aumento do tempo de reação.",
+            "A diminuição do tempo de reação.",
+            "O aumento dos seus reflexos."
+        ],
+        "answer": "O aumento do tempo de reação."
+    },
+    {
+        "question": "O que se entende por comunicação interpessoal?",
+        "options": [
+            "Método de comunicação que promove a troca de informação entre duas ou mais pessoas",
+            "Método de comunicação efetuado apenas por um interveniente.",
+            "Atividade inativa e descontínua de troca de informações."
+        ],
+        "answer": "Método de comunicação que promove a troca de informação entre duas ou mais pessoas."
+    },
+    {
+        "question": "A capacidade de prever e antecipar enquanto condutor defensivo aumenta:",
+        "options": [
+            "Com a idade",
+            "Com a experiência de condução"
+        ],
+        "answer": "Com a experiência de condução"
+    },
+    {
+        "question": " O processo de comunicação prevê a existência mínima de:",
+        "options": [
+            "Um emissor.",
+            "Um recetor.",
+            "Um emissor e um recetor."
+        ],
+        "answer": "Um emissor e um recetor."
+    },
+    {
+        "question": " O que se entende por ruídos durante o processo de comunicação?",
+        "options": [
+            "Algo que interfere com a mensagem enviada, mas que não altera o seu significado.",
+            "Algo que interfere com a mensagem enviada bloqueando e alterando o seu significado.",
+            "Algo que interfere com a mensagem enviada que bloqueia mas não altera o seu significado."
+        ],
+        "answer": "Algo que interfere com a mensagem enviada bloqueando e alterando o seu significado."
+    },
+    {
+        "question": "Se precisar de utilizar o telemóvel, deve: ",
+        "options": [
+            "Reduzir a velocidade.",
+            "Estacionar devidamente o veículo.",
+            "Passar para a via de trânsito da direita."
+        ],
+        "answer": "Estacionar devidamente o veículo."
+    },
+    {
+        "question": "Dos seguintes fatores, qual considera mais importante na prevenção de acidentes rodoviários? ",
+        "options": [
+            "Ter um automóvel novo.",
+            "Obter a carta de condução em idade avançada.",
+            "Praticar uma condução defensiva."
+        ],
+        "answer": "Praticar uma condução defensiva."
+    },
+     {
+        "question": "Fazem parte das barreiras internas à comunicação:",
+        "options": [
+            "Diferenças sociais, culturais, sexuais, os julgamentos e as suposições.",
+            "Apenas as diferenças sociais, culturais e sexuais.",
+            "Unicamente as diferenças sociais e culturais"
+        ],
+        "answer": "Diferenças sociais, culturais, sexuais, os julgamentos e as suposições."
+    },
+     {
+        "question": "A luz amarela constante do sinal luminoso antecede a luz: ",
+        "options": [
+            "Vermelha.",
+            "Verde.",
+            "Amarela intermitente."
+        ],
+        "answer": "Vermelha."
+    },
+    {
+        "question": "A que distância deve estar bem visível o triângulo de pré-sinalização de perigo? ",
+        "options": [
+            "A pelo menos, 150 metros.",
+            "A pelo menos, 100 metros.",
+            "A pelo menos, 50 metros."
+        ],
+        "answer": "A pelo menos, 100 metros."
+    },
+    {
+        "question": "Entendem-se por barreiras externas à comunicação:",
+        "options": [
+            "Os julgamentos.",
+            "Os sinais não verbais e as pressões de tempo.",
+            "As diferenças sociais e culturais."
+        ],
+        "answer": "Os sinais não verbais e as pressões de tempo."
+    },
+    {
+        "question": "O relacionamento interpessoal está classificado nos estilos:",
+        "options": [
+            "Assertivo, passivo, manipulador e agressivo.",
+            "Assertivo e agressivo.",
+            "Passivo e ativo."
+        ],
+        "answer": "Assertivo, passivo, manipulador e agressivo."
+    },
+      {
+        "question": "Regra geral, numa localidade a velocidade máxima permitida é: ",
+        "options": [
+            "40km/h.",
+            "50Km/h",
+            "60Km/h"
+        ],
+        "answer": "50Km/h"
+    },
+     {
+        "question": "Um condutor que apresente resultado positivo no exame de pesquisa de álcool no ar expirado, mediante a utilização de aparelho aprovado para o efeito, fica impedido de conduzir pelo período de:",
+        "options": [
+            "6 horas.",
+            "8 horas.",
+            "12 horas."
+        ],
+        "answer": "12 horas."
+    },
+    {
+        "question": "Um individuo com estilo assertivo é uma pessoa que:",
+        "options": [
+            "Concorda sempre com os outros.",
+            "Defende os seus próprios interesses.",
+            "Valoriza-se à custa dos outros."
+        ],
+        "answer": "Defende os seus próprios interesses."
+    },
+     {
+        "question": "As pessoas que estabelecem uma comunicação assertiva caracterizam-se por: ",
+        "options": [
+            "Manifestar a sua opinião, respeitando sempre a opinião do outro.",
+            "Ter bom sentido de humor.",
+            "Aceitar passivamente tudo que lhe é transmitido.",
+            "Não aceita qualquer ponto de vista."
+        ],
+        "answer": "Manifestar a sua opinião, respeitando sempre a opinião do outro."
+    },
+    {
+        "question": "Os peões e os condutores de velocípedes são considerados utilizadores vulneráveis da via pública.",
+        "options": [
+            "Certo",
+            "Errado."
+        ],
+        "answer": "Certo"
+    },
+    {
+        "question": "Uma das formas de praticar uma condução mais ecológica é: ",
+        "options": [
+            "Verificar regularmente a pressão dos pneus.",
+            "Não conduzir com pesos desnecessários no veículo.",
+            "Conduzir com o veículo desembraiado nas descidas ingremes",
+            "As afirmações a) e b) estão corretas."
+        ],
+        "answer": "As afirmações a) e b) estão corretas."
+    },
+    {
+        "question": "As crianças, idosos, grávidas e pessoas com mobilidade reduzida são considerados utilizadores vulneráveis da via pública.",
+        "options": [
+            "Certo",
+            "Errado."
+        ],
+        "answer": "Certo"
+    },
+     {
+        "question": "Um condutor pode ser titular de mais do que uma carta de condução de modelo comunitário?",
+        "options": [
+            "Pode.",
+            "Não Pode."
+        ],
+        "answer": "Não Pode."
+    },
+    {
+        "question": "O condutor contribui para uma maior proteção do ambiente: ",
+        "options": [
+            "Utilizando o ar condicionado só em situações de necessidade",
+            "Usando sempre a relação de caixa de velocidades o mais alto possível, independentemente da velocidade a que circular.",
+            "Fazendo uso de acessórios que provoquem o aumento da resistência aerodinâmica do veículo."
+        ],
+        "answer": "Utilizando o ar condicionado só em situações de necessidade"
+    },
+     {
+        "question": "A posição de marcha dos veículos deve fazer-se pelo lado direito da faixa de rodagem: ",
+        "options": [
+            "Conservando das bermas ou passeios uma distância suficiente que permita evitar acidentes.",
+            "Não sendo necessário conservar das bermas ou passeios qualquer distância.",
+            "Conservando somente uma distância dos passeios que permita evitar acidentes."
+        ],
+        "answer": "Conservando das bermas ou passeios uma distância suficiente que permita evitar acidentes."
+    },
+       {
+        "question": "Nas rotundas, o condutor deve ter o seguinte comportamento:",
+        "options": [
+            "Se pretender sair da rotunda na primeira via de saída, deve ocupar a via da direita.",
+            "Se pretender sair da rotunda na primeira via de saída, pode ocupar qualquer das vias.",
+            "Se pretender sair da rotunda na primeira via de saída, pode ocupar qualquer das duas vias mais à direita."
+        ],
+        "answer": "Se pretender sair da rotunda na primeira via de saída, deve ocupar a via da direita."
+    },
+    {
+        "question": " Quais são os benefícios da prática generalizada da eco condução? ",
+        "options": [
+            "Contribui para o aumento da emissão de gases com efeito de estufa para o arrefecimento global da atmosfera.",
+            "Leva a um aumento significativo do número de veículos em circulação.",
+            "Contribui para o aumento do uso de energias renováveis no uso dos transportes rodoviários"
+        ],
+        "answer": "Contribui para o aumento do uso de energias renováveis no uso dos transportes rodoviários"
+    },
+       {
+        "question": "Sempre que no mesmo sentido existem duas ou mais vias de trânsito, o condutor deve circular pela via mais à direita:",
+        "options": [
+            "Podendo utilizar outra se não houver lugar naquela e somente para mudar de direção.",
+            "Podendo utilizar outra se não houver lugar naquela e também para ultrapassar ou mudar de direção.",
+            "Podendo utilizar outra se não houver lugar naquela e somente para ultrapassar."
+        ],
+        "answer": "Podendo utilizar outra se não houver lugar naquela e também para ultrapassar ou mudar de direção."
+    },
+      {
+        "question": "Os velocípedes podem circular nas bermas?",
+        "options": [
+            "Sim, desde que não ponham em perigo ou perturbem os peões que nelas circulem.",
+            "Não, os velocípedes nunca podem circular nas bermas.",
+            "Sim, os velocípedes podem circular nas bermas sem qualquer problema."
+        ],
+        "answer": "Sim, desde que não ponham em perigo ou perturbem os peões que nelas circulem."
+    },
+    {
+        "question": "Um aumento de 10% na velocidade pode provocar um aumento de 15% no consumo de combustível. ",
+        "options": [
+            "A afirmação é verdadeira.",
+            "A afirmação é falsa."
+        ],
+        "answer": "A afirmação é verdadeira."
+    },
+      {
+        "question": "Como deve proceder o condutor em descidas de inclinação acentuada? ",
+        "options": [
+            "Deve colocar o veículo em ponto morto, de forma a manter o motor liberto.",
+            "Deve manter o veículo engrenado numa mudança compatível, ajudando a travagem com o motor.",
+            "Nenhuma das afirmações está correta."
+        ],
+        "answer": "Deve manter o veículo engrenado numa mudança compatível, ajudando a travagem com o motor."
+    },
+    {
+        "question": "Os velocípedes podem circular nos passeios? ",
+        "options": [
+            "Não. Os velocípedes nunca podem circular nos passeios.",
+            "Sim, se forem conduzidos por crianças até aos 10 anos, desde que não ponham em perigo ou perturbem os peões."
+        ],
+        "answer": "Sim, se forem conduzidos por crianças até aos 10 anos, desde que não ponham em perigo ou perturbem os peões."
+    },
+    {
+        "question": "Um condutor ecológico deve: ",
+        "options": [
+            "Evitar colocar muita bagagem no porta bagagens.",
+            "Evitar conduzir veículos com motores híbridos.",
+            "Evitar usar o ar condicionado do veículo, especialmente em percursos curtos.",
+            "As afirmações de R: a) e R: c) estão corretas."
+        ],
+        "answer": "As afirmações de R: a) e R: c) estão corretas."
+    },
+      {
+        "question": "O condutor deve regular a velocidade:",
+        "options": [
+            "Atendendo somente às características e estado do veículo.",
+            "Atendendo à presença de utilizadores vulneráveis.",
+            "Atendendo somente à carga transportada."
+        ],
+        "answer": "Atendendo à presença de utilizadores vulneráveis."
+    },
+      {
+        "question": "O condutor deve regular a velocidade: ",
+        "options": [
+            "Atendendo à presença de utilizadores vulneráveis.",
+            "Atendendo somente à intensidade do trânsito.",
+            "Atendendo somente à carga transportada no veículo."
+        ],
+        "answer": "Atendendo à presença de utilizadores vulneráveis."
+    },
+    {
+        "question": "A velocidade deve ser especialmente moderada:",
+        "options": [
+            "Unicamente nas descidas de inclinação acentuada.",
+            "Unicamente nas pontes, túneis e passagens de nível.",
+            "Nas zonas de coexistência."
+        ],
+        "answer": "Nas zonas de coexistência."
+    },
+     {
+        "question": "A velocidade deve ser especialmente moderada: ",
+        "options": [
+            "À aproximação de utilizadores vulneráveis.",
+            "Unicamente nas descidas de inclinação acentuada",
+            "Unicamente nos locais de grande intensidade de trânsito."
+        ],
+        "answer": "À aproximação de utilizadores vulneráveis."
+    },
+       {
+        "question": "Dentro das localidades, em zonas de coexistência os automóveis ligeiros de passageiros sem reboque:",
+        "options": [
+            "Não podem exceder a velocidade de 30 km/h",
+            "Não podem exceder a velocidade de 20 km/h",
+            "Não podem exceder a velocidade de 50 km/h"
+        ],
+        "answer": "Não podem exceder a velocidade de 20 km/h"
+    },
+     {
+        "question": "Os motoristas de TVDE devem ceder a passagem aos velocípedes:",
+        "options": [
+            "Que atravessem a faixa de rodagem nas passagens assinaladas.",
+            "Que saiam de um parque de estacionamento.",
+            "Que entrem numa rotunda."
+        ],
+        "answer": "Que atravessem a faixa de rodagem nas passagens assinaladas."
+    },
+       {
+        "question": "O motorista de TVDE deve ceder a passagem a um veículo que sai de um estacionamento.",
+        "options": [
+            "Certo.",
+            "Errado."
+        ],
+        "answer": "Errado."
+    },
+     {
+        "question": " Na realização da manobra de ultrapassagem a um velocípede, o motorista de TVDE:",
+        "options": [
+            "Deve guardar uma distância lateral mínima de 1,5 m e abrandar a velocidade.",
+            "Não necessita de ter qualquer precaução.",
+            "Deve guardar uma distância lateral mínima de 2,5 metros."
+        ],
+        "answer": "Deve guardar uma distância lateral mínima de 1,5 m e abrandar a velocidade."
+    },
+    {
+        "question": " Existindo mais do que uma via de trânsito no mesmo sentido, na realização de uma manobra de ultrapassagem, o motorista de TVDE:",
+        "options": [
+            "Deve ocupar a via de trânsito à esquerda daquela em que circula o veículo ultrapassado.",
+            "Pode ocupar qualquer das vias à esquerda do veículo ultrapassado."
+        ],
+        "answer": "Deve ocupar a via de trânsito à esquerda daquela em que circula o veículo ultrapassado."
+    },
+    {
+        "question": " É proibida a ultrapassagem: ",
+        "options": [
+            "Somente mas passagens assinaladas para a travessia de peões.",
+            "Imediatamente antes e nas passagens assinaladas para a travessia de peões e velocípedes. ",
+            "Somente nas lombas."
+        ],
+        "answer": "Imediatamente antes e nas passagens assinaladas para a travessia de peões e velocípedes. "
+    },
+    {
+        "question": " Nas zonas de coexistência partilhadas por peões e veículos: ",
+        "options": [
+            "Não existe sinalização nem regras especiais de trânsito.",
+            "Existem regras especiais de trânsito."
+        ],
+        "answer": "Existem regras especiais de trânsito."
+    },
+    {
+        "question": " A posição de marcha dos veículos deve fazer-se:  ",
+        "options": [
+            "Do lado direito da faixa de rodagem.",
+            "Do lado esquerdo da faixa de rodagem."
+        ],
+        "answer": "Do lado direito da faixa de rodagem."
+    },
+    {
+        "question": "A posição de marcha dos veículos deve fazer-se: ",
+        "options": [
+            "Do lado esquerdo da faixa de rodagem.",
+            "A uma distância das bermas que ou passeios suficiente, que permita evitar acidentes. ",
+            "O mais perto possível das bermas ou passeios."
+        ],
+        "answer": "A uma distância das bermas que ou passeios suficiente, que permita evitar acidentes. "
+    },
+    {
+        "question": "O condutor, para falar ao telefone:  ",
+        "options": [
+            "Deve utilizar a mão esquerda.",
+            "Deve utilizar a mão direita.",
+            "Deve colocar um microfone com sistema de alta voz, cuja utilização não implique manuseamento continuado."
+        ],
+        "answer": "Deve colocar um microfone com sistema de alta voz, cuja utilização não implique manuseamento continuado."
+    },
+    {
+        "question": " - Deve utilizar o colete retrorrefletor, quem procede à remoção da carga, no caso de imobilização do veículo na faixa de rodagem. ",
+        "options": [
+            "Certo.",
+            "Errado."
+        ],
+        "answer": "Certo."
+    },
+     {
+        "question": "É permitido o trânsito de veículos com avaria nas luzes, desde que disponham de: ",
+        "options": [
+            "O médio do lado esquerdo, conjuntamente com dois mínimos e à retaguarda, o indicador de presença do lado esquerdo e uma das luzes de travagem, quando obrigatória.",
+            "O médio do lado direito, conjuntamente com dois mínimos e à retaguarda, o indicador de presença do lado esquerdo e uma das luzes de travagem, quando obrigatória.",
+            "O médio do lado direito, conjuntamente com um dos mínimos e à retaguarda, o indicador de presença do lado esquerdo e uma das luzes de travagem, quando obrigatória."
+        ],
+        "answer": "O médio do lado esquerdo, conjuntamente com dois mínimos e à retaguarda, o indicador de presença do lado esquerdo e uma das luzes de travagem, quando obrigatória."
+    },
+    {
+        "question": "Legalmente, considera-se condução sob a influência do álcool, quando o condutor apresenta: ",
+        "options": [
+            "Uma taxa de álcool no sangue inferior a 0,5 g/l.",
+            "Uma taxa de álcool no sangue de 0,3 g/l.",
+            "Uma taxa de álcool no sangue igual ou superior a 0,5 g/l."
+        ],
+        "answer": "Uma taxa de álcool no sangue igual ou superior a 0,5 g/l."
+    },
+    {
+        "question": "As crianças com menos de 12 anos de idade e altura inferior a 135cm, podem ser transportadas em automóvel apenas com o cinto de segurança? ",
+        "options": [
+            "Sim podem, sem qualquer restrição.",
+            "Não. As crianças podem ser transportadas mas utilizando um sistema de retenção homologado e adaptado ao seu tamanho."
+        ],
+        "answer": "Não. As crianças podem ser transportadas mas utilizando um sistema de retenção homologado e adaptado ao seu tamanho."
+    },
+      {
+        "question": "Com que idade e altura as crianças podem ser transportadas em automóvel com um sistema de retenção homologada e adaptado ao seu tamanho?",
+        "options": [
+            "Crianças com menos de 12 anos e altura inferior a 135 cm.",
+            "Crianças com menos de 12 anos e altura inferior a 150 cm.",
+            "Não existem idades nem alturas definidas."
+        ],
+        "answer": "Crianças com menos de 12 anos e altura inferior a 135 cm."
+    },
+     {
+        "question": "O condutor de um automóvel ligeiro, com 20 anos de idade, considera-se sob influência do álcool, quando apresenta uma taxa de álcool por litro de sangue igual ou superior a: ",
+        "options": [
+            "0,2 g/l de sangue.",
+            "0,2 g/l de sangue.",
+            "0,5 g/l de sangue."
+        ],
+        "answer": "0,2 g/l de sangue."
+    },
+     {
+        "question": "O condutor de um automóvel ligeiro, com 20 anos de idade, considera-se sob influência do álcool, quando apresenta uma taxa de álcool por litro de sangue igual ou superior a: ",
+        "options": [
+            "0,2 g/l de sangue.",
+            "0,3 g/l de sangue.",
+            "0,5 g/l de sangue."
+        ],
+        "answer": "0,2 g/l de sangue."
+    },
+       {
+        "question": "O condutor de um veículo de transporte público de passageiros (TVDE) é considerado sob influência do álcool, quando apresenta uma taxa de álcool por litro de sangue igual ou superior a: ",
+        "options": [
+            "0,2 g/l de sangue.",
+            "0,3 g/l de sangue.",
+            "0,5 g/l de sangue."
+        ],
+        "answer": "0,2 g/l de sangue."
+    },
+     {
+        "question": " Pratica uma contraordenação grave o condutor de um TVDE ao conduzir com uma taxa de álcool por litro de sangue de: ",
+        "options": [
+            "0,7 gl de sangue.",
+            "0,4 gl de sangue.",
+            "0,2 gl de sangue."
+        ],
+        "answer": "0,2 gl de sangue."
+    },
+     {
+        "question":" O condutor de um TVDE que conduza com uma taxa de álcool no sangue de 1,3 g/l, pratica:",
+        "options": [
+            "Uma infração grave",
+            "Uma infração muito grave.",
+            "Um crime rodoviário."
+        ],
+        "answer": "Um crime rodoviário."
+    },
+     {
+        "question": "Os condutores que se recusem a submeter-se às provas para 'deteção do estado de influenciado pelo álcool' mas continuam a conduzir, são punidos: ",
+        "options": [
+            "Por crime de desobediência qualificada e são impedidos de conduzir.",
+            "Cometem uma infração muito grave, mas podem continuar a conduzir."
+        ],
+        "answer": "Por crime de desobediência qualificada e são impedidos de conduzir."
+    },
+    {
+        "question": "Devem submeter-se às provas para a 'deteção do estado de influenciado' pelo álcool: ",
+        "options": [
+            "Todos os condutores, peões e pessoas que se propuserem iniciar a condução.",
+            "Apenas os condutores e os peões.",
+            "Apenas os condutores e peões intervenientes em acidentes de trânsito."
+        ],
+        "answer": "Todos os condutores, peões e pessoas que se propuserem iniciar a condução."
+    },
+     {
+        "question": "Quem apresentar um resultado positivo no exame de pesquisa do álcool, fica impedido de conduzir pelo período de: ",
+        "options": [
+            "10 horas.",
+            "12 horas.",
+            "14 horas"
+        ],
+        "answer": "12 horas."
+    },
+     {
+        "question": "Quem apresentar um resultado positivo no exame de pesquisa do álcool, pode conduzir passadas 10 horas.",
+        "options": [
+            "Certo",
+            "Errado."
+        ],
+        "answer": "Errado."
+    },
+    {
+        "question": "Quem apresentar um resultado positivo no exame de pesquisa do álcool, pode conduzir passadas 14 horas",
+        "options": [
+            "Certo",
+            "Errado."
+        ],
+        "answer": "Certo"
+    },
+     {
+        "question": "A eco condução é uma forma de condução eficiente, menos poluente e mais segura.",
+        "options": [
+            "A afirmação é verdadeira.",
+            "A afirmação é falsa."
+        ],
+        "answer": "A afirmação é verdadeira."
+    },
+     {
+        "question": "Entende-se por 'condução defensiva': ",
+        "options": [
+            "Não efetuar ultrapassagens em vias com duas vias de trânsito.",
+            "Conduzir de forma a prevenir, evitar e não provocar acidentes, sejam quais forem as condições de circulação, da via, do veículo e meteorológicas e quaisquer que sejam os comportamentos dos outros utentes da via.",
+            "Efetuar constantes travagens."
+        ],
+        "answer": "Conduzir de forma a prevenir, evitar e não provocar acidentes, sejam quais forem as condições de circulação, da via, do veículo e meteorológicas e quaisquer que sejam os comportamentos dos outros utentes da via."
+    },
+    {
+        "question": "Se o resultado de pesquisa do álcool no sangue for positivo, o condutor pode pedir uma contra prova no ar expirado ou no sangue. A escolha do método a utilizar é feita:",
+        "options": [
+            "Pela entidade fiscalizadora.",
+            "Pelo próprio condutor."
+        ],
+        "answer": "Pelo próprio condutor."
+    },
+    {
+        "question": "A prática da eco condução contribui para:",
+        "options": [
+            "A otimização do consumo de combustível e a redução da poluição ambiental.",
+            "O aumento da sinistralidade rodoviária, embora possa causar embaraço no trânsito",
+            "Um melhor planeamento das viagens, de forma a evitar os congestionamentos de trânsito.",
+            "As afirmações de a) e c) estão corretas."
+        ],
+        "answer": "As afirmações de a) e c) estão corretas."
+    },
+    {
+        "question": "No caso da contra prova confirmar um teor de álcool no sangue superior ao limite legal, quem paga as despesas deste exame? ",
+        "options": [
+            "A entidade fiscalizadora que o efetuou.",
+            "O hospital, no caso de análise de sangue.",
+            "O condutor que a requereu.",
+            "O Instituto da Mobilidade e dos Transportes."
+        ],
+        "answer": "O condutor que a requereu."
+    },
+    {
+        "question": "Quais são as vantagens da prática de uma eco condução?",
+        "options": [
+            "Contribui para a diminuição do nível de dióxido de carbono na atmosfera e de outros gases com efeito de estufa.",
+            "Aumenta o conforto dos ocupantes do veículo.",
+            "Contribui para uma menor poluição sonora.",
+            "Todas as afirmações anteriores são verdadeiras"
+        ],
+        "answer": "Todas as afirmações anteriores são verdadeiras"
+    },
+     {
+        "question": "Se o resultado da contra prova de pesquisa do álcool no sangue apresentar um resultado diferente do primeiro exame de pesquisa do álcool, qual prevalece?  ",
+        "options": [
+            "O resultado da contra prova prevalece sobre o do exame inicial.",
+            "O resultado do exame inicial prevalece sobre o da contra prova",
+            "Nenhum e o condutor deve ser submetido a novo exame de pesquisa para desempate."
+        ],
+        "answer": "O resultado da contra prova prevalece sobre o do exame inicial."
+    },
+     {
+        "question": "Um condutor faz uma condução ecológica, se ao conduzir a uma determinada velocidade:  ",
+        "options": [
+            "Utilizar uma rotação constante do motor, engrenando a mudança adequada a esta rotação.",
+            "Utilizar uma rotação do motor alta, engrenando mudanças mais baixas.",
+            "Utilizar uma rotação do motor baixa, engrenando mudanças mais altas."
+        ],
+        "answer": "Utilizar uma rotação do motor baixa, engrenando mudanças mais altas."
+    },
+      {
+        "question": "Quando a entidade fiscalizadora suspeite da utilização de meios suscetíveis de alterar o resultado do exame no ar expirado, pode: ",
+        "options": [
+            "Mandar submeter o condutor a um exame médico.",
+            "Mandar submeter o condutor a uma análise de sangue"
+        ],
+        "answer": "Mandar submeter o condutor a um exame médico."
+    },
+    {
+        "question": " A ingestão de bebidas alcoólicas: ",
+        "options": [
+            "Torna o condutor mais consciente do perigo.",
+            "Aumenta a atenção do condutor.",
+            "Diminui a capacidade de reação do condutor."
+        ],
+        "answer": "Diminui a capacidade de reação do condutor."
+    },
+    {
+        "question": " Qual é a influência da ingestão de bebidas alcoólicas na condução?",
+        "options": [
+            "Aumenta a capacidade de reação",
+            "Diminui a resistência física do condutor.",
+            "Aumenta os reflexos do condutor."
+        ],
+        "answer": "Diminui a resistência física do condutor."
+    },
+    {
+        "question": "Não deve conduzir na via publica um condutor com taxa de alcoolemia:",
+        "options": [
+            " Inferior a 0,2 g/l.",
+            " Igual ou superior a 0,5 g/l."
+        ],
+        "answer": " Igual ou superior a 0,5 g/l."
+    },
+    {
+        "question": "O condutor que pretende sair da rotunda na primeira via de saída e não se encontra corretamente posicionado nessa via: ",
+        "options": [
+            " É sancionado com uma coima.",
+            " Não lhe é aplicada nenhuma coima."
+        ],
+        "answer": " É sancionado com uma coima."
+    },
+      {
+        "question": "Para que serve o conta-rotações?",
+        "options": [
+            "Para controlar a velocidade do motor.",
+            "Para indicar a rotação do motor do veículo.",
+            "Ambas as afirmações são verdadeiras."
+        ],
+        "answer": "Para indicar a rotação do motor do veículo."
+    },
+     {
+        "question": "Existem medicamentos capazes de prejudicar o desempenho do indivíduo ao volante? ",
+        "options": [
+            "Sim.",
+            "Sim, mas apenas se forem ingeridos juntamente com bebidas alcoólicas.",
+            "Sim, mas apenas se forem soporíferos."
+        ],
+        "answer": "Sim."
+    },
+       {
+        "question": "Para além do fator velocidade, a distância de travagem pode aumentar, se:",
+        "options": [
+            "O veículo não circular em autoestrada.",
+            "O piso se encontrar seco.",
+            "O veículo não estiver carregado.",
+            "O pavimento se encontrar molhado."
+        ],
+        "answer": "O pavimento se encontrar molhado."
+    },
+        {
+        "question": "A velocidade de um veículo deve depender:",
+        "options": [
+            "Apenas da intensidade do trânsito.",
+            "Do estado da via e do veículo, da intensidade do trânsito e da carga transportada.",
+            "Apenas do estado da via"
+        ],
+        "answer": "Do estado da via e do veículo, da intensidade do trânsito e da carga transportada."
+    },
+       {
+        "question": "O que é o consumo médio de um veículo? ",
+        "options": [
+            "É o volume final consumido, em litros, após percorrida uma certa distância.",
+            "É o volume de combustível, em litros, dividido pela distância percorrida, em km.",
+            "É a medida do consumo num determinado instante de tempo."
+        ],
+        "answer": "É o volume de combustível, em litros, dividido pela distância percorrida, em km."
+    },
+      {
+        "question": "O veículo deve ser apreendido numa ação de fiscalização, sempre que:",
+        "options": [
+            "Sejam desrespeitadas as regras relativas à poluição sonora do solo e do ar.",
+            "Não tenha sido efetuado o seguro de responsabilidade civil nos termos da lei.",
+            "Se suspeite de viciação fraudulenta no documento de identificação do veículo."
+        ],
+        "answer": "Não tenha sido efetuado o seguro de responsabilidade civil nos termos da lei."
+    },
+       {
+        "question": "É considerado 'reincidente' o condutor que cometa uma contraordenação, depois de ter sido condenado por outra contraordenação ao mesmo diploma legal ou seus regulamentos, também sancionado com sanção acessória, praticada a menos de: ",
+        "options": [
+            "5 anos.",
+            "3 anos.",
+            "2 anos"
+        ],
+        "answer": "5 anos."
+    },
+       {
+        "question": "No exercício da condução, considera-se muito grave a seguinte contra ordenação:",
+        "options": [
+            "A utilização de máximos de modo a provocar encandeamento.",
+            "A paragem ou o estacionamento nas bermas das auto-estradas ou vias equiparadas.",
+            "O trânsito de veículos em sentido oposto ao estabelecido."
+        ],
+        "answer": "A utilização de máximos de modo a provocar encandeamento."
+    },
+      {
+        "question": "Numa rotunda devidamente sinalizada, tem prioridade de passagem os veículos que:",
+        "options": [
+            "Circulam na rotunda.",
+            "Entram na rotunda",
+            "Saem da rotunda."
+        ],
+        "answer": "Circulam na rotunda."
+    },
+    {
+        "question": "A segurança rodoviária depende: ",
+        "options": [
+            "Exclusivamente da sinalização",
+            "Unicamente do comportamento do utente, enquanto peão",
+            "Do equilíbrio que deve existir entre vários elementos que fazem parte do sistema de circulação."
+        ],
+        "answer": "Do equilíbrio que deve existir entre vários elementos que fazem parte do sistema de circulação."
+    },
+    {
+        "question": "A prática da eco condução também contribui para a diminuição da sinistralidade rodoviária?",
+        "options": [
+            "Sim, contribui",
+            "Não, apenas contribui para a redução do consumo de combustível e da poluição ambiental.",
+            "Não, apenas contribui para a diminuição das emissões de gases com efeito de estufa."
+        ],
+        "answer": "Sim, contribui"
+    },
+     {
+        "question": "A correta pressão dos pneus contribui para uma condução mais económica?",
+        "options": [
+            "Sim, contribui.",
+            "Não, apenas contribui para uma melhor estabilidade do veículo",
+            "Não, apenas contribui para a manutenção do sistema de suspensão do veículo."
+        ],
+        "answer": "Sim, contribui"
+    },
+       {
+        "question": "O acidente continua a ter como principal causa: ",
+        "options": [
+            "A má sinalização de obras na via pública.",
+            "A falha humana, pela não adaptação às condições do ambiente rodoviário.",
+            "Os limites de velocidade impostos quando existem obras no pavimento."
+        ],
+        "answer": "A falha humana, pela não adaptação às condições do ambiente rodoviário."
+    }
+]
