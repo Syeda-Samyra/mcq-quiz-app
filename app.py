@@ -28,15 +28,24 @@ if not st.session_state.submitted:
     for i, q in enumerate(questions):
         st.write(f"**Q{i+1}: {q['question']}**")
         st.session_state.answers[i] = st.radio(
-            "Choose an option:",
-            q["options"],
-            key=f"q{i}"
-        )
+    "Choose an option:",
+    q["options"],
+    index=None,   # 👈 ensures nothing is pre-selected
+    key=f"q{i}"
+)
+
 
     # Submit button
-    if st.button("Submit Test"):
+if st.button("Submit Test"):
+    # Check for unanswered questions
+    unanswered = [i+1 for i in range(len(questions)) if st.session_state.answers.get(i) is None]
+    
+    if unanswered:
+        st.warning(f"⚠️ Please answer all questions before submitting. Unanswered: Q{', Q'.join(map(str, unanswered))}")
+    else:
         st.session_state.submitted = True
         st.rerun()
+
 
 # Show results after submission
 else:
