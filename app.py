@@ -66,3 +66,9 @@ else:
         st.session_state.submitted = False
         st.rerun()
 
+# --- Signature at bottom ---
+st.markdown("---")
+st.markdown(
+    "<h4 style='text-align: center; color: grey;'>Created by: S. Mamoon</h4>",
+    unsafe_allow_html=True
+)
