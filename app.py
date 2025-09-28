@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+import random
 import streamlit as st
 
 # Handle paths for .exe and script
@@ -17,41 +18,49 @@ with open(json_path, "r") as f:
 
 st.title("MCQ Test App 📝")
 
-# Store answers and submission state
+# Store answers, submission state, and shuffled questions
 if "answers" not in st.session_state:
     st.session_state.answers = {}
 if "submitted" not in st.session_state:
     st.session_state.submitted = False
+if "shuffled_questions" not in st.session_state:
+    st.session_state.shuffled_questions = random.sample(questions, len(questions))
 
-# Show questions (if not submitted yet)
+shuffled_questions = st.session_state.shuffled_questions
+
+# --- Show questions (only if not submitted) ---
 if not st.session_state.submitted:
-    for i, q in enumerate(questions):
+    for i, q in enumerate(shuffled_questions):
         st.write(f"**Q{i+1}: {q['question']}**")
         st.session_state.answers[i] = st.radio(
-    "Choose an option:",
-    q["options"],
-    index=None,   # 👈 ensures nothing is pre-selected
-    key=f"q{i}"
-)
+            f"Options for Q{i+1}:",
+            q["options"],
+            index=None,   # 👈 ensures nothing is pre-selected
+            key=f"q{i}"
+        )
 
+    # Progress bar
+    answered = sum(1 for ans in st.session_state.answers.values() if ans is not None)
+    total = len(shuffled_questions)
+    st.progress(answered / total)
+    st.write(f"Answered: {answered}/{total}")
 
     # Submit button
-if st.button("Submit Test"):
-    # Check for unanswered questions
-    unanswered = [i+1 for i in range(len(questions)) if st.session_state.answers.get(i) is None]
-    
-    if unanswered:
-        st.warning(f"⚠️ Please answer all questions before submitting. Unanswered: Q{', Q'.join(map(str, unanswered))}")
-    else:
-        st.session_state.submitted = True
-        st.rerun()
+    if st.button("Submit Test"):
+        # Check for unanswered questions
+        unanswered = [i+1 for i in range(len(shuffled_questions)) if st.session_state.answers.get(i) is None]
+        
+        if unanswered:
+            st.warning(f"⚠️ Please answer all questions before submitting. Unanswered: Q{', Q'.join(map(str, unanswered))}")
+        else:
+            st.session_state.submitted = True
+            st.rerun()
 
-
-# Show results after submission
-else:
+# --- Show results (only AFTER submission) ---
+if st.session_state.submitted:
     score = 0
     st.subheader("📊 Results:")
-    for i, q in enumerate(questions):
+    for i, q in enumerate(shuffled_questions):
         user_answer = st.session_state.answers[i]
         if user_answer == q["answer"]:
             st.success(f"Q{i+1}: Correct ✅ ({user_answer})")
@@ -59,20 +68,19 @@ else:
         else:
             st.error(f"Q{i+1}: Wrong ❌ (Your answer: {user_answer}, Correct: {q['answer']})")
 
-    total = len(questions)
+    total = len(shuffled_questions)
     st.write(f"### Final Score: {score} / {total}")
 
-    # Pass/Fail message (threshold = 50%)
-    if score >= total / 2:
-        st.balloons()
-        st.success("🎉 Congratulations! You Passed ✅")
-    else:
-        st.error("❌ You Failed. Try Again!")
+    # Save results to file
+    with open("results.json", "a") as f:
+        json.dump({"score": score, "total": total}, f)
+        f.write("\n")
 
     # Restart button
     if st.button("Restart Test 🔄"):
         st.session_state.answers = {}
         st.session_state.submitted = False
+        st.session_state.shuffled_questions = random.sample(questions, len(questions))  # reshuffle
         st.rerun()
 
 # --- Signature at bottom ---
